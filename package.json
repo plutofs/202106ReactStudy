@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-next-app": "^10.2.3",
+    "mysql": "^2.18.1"
+  }
+}
